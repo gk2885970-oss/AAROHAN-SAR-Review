@@ -29,4 +29,4 @@ https://drive.google.com/drive/folders/1O6UJq8gmZfcI3zJALZnsRx0T6B5FYN6Q
 ## Run
 Open `AAROHAN.ipynb` and follow cells in order:  
 Setup → Sample → Data → Detect → Review → Audit → Metrics  
-(Fine-tune cell is optional; flags default off after training.)
+
