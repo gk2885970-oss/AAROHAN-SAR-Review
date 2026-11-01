@@ -24,7 +24,7 @@ Test images were not used in fine-tuning. Operating threshold 0.40 chosen after 
 Pipeline uses open-source YOLO and OpenCV. Configuration, evaluation protocol, fine-tune runs, and human-review workflow were executed and measured by the author on Apple M4. Run artefacts are logged under `~/AAROHAN/runs/`.
 
 ## Evidence pack
-https://drive.google.com/drive/folders/1O6UJq8gmZfcl3zJALZnsRx0T6B5FYN6Q
+https://drive.google.com/drive/folders/1O6UJq8gmZfcI3zJALZnsRx0T6B5FYN6Q
 
 ## Run
 Open `AAROHAN.ipynb` and follow cells in order:  
